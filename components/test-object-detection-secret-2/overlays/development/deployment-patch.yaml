@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tpetkos/test-object-detection-secret-2:b037d7ab66e461f699929ae210a195341683ed2c@sha256:860fa67dd2b16491f184475444e5afa70c4eb1e32127882b9eaaa49ac3ec31d9 # use pre-built to bootstrap 
+        - image: quay.io/tpetkos/test-object-detection-secret-2:b037d7ab66e461f699929ae210a195341683ed2c@sha256:59c0c4577e7d966e00647d3ab076a0ef451465c6b940b7b5ea984a7edf993bb9 # use pre-built to bootstrap 
           name: app-inference
